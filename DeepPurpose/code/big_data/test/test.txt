@@ -1,0 +1,5 @@
+173469,CO[C@]12CC[C@]3(C[C@@H]1COCc1ccc(cc1)C)[C@@]14[C@H]2Oc2c4c(C[C@H]3[N](CC1)(C)CC1CC1)ccc2O
+427412,NCC[N]1(C)CC[C@H](C1)NS(=O)(=O)c1ccc(c(c1S(=O)(=O)N)c1n[nH]nn1)c1cccc2c1nc([nH]2)N
+mol1,CC(=O)O[C@H]1C[C@H](OC(=O)C)C([C@@H]2[C@]1(C)[C@@H]1C[C@H]3OC(=O)C(=C3[C@@H]3[C@@]1(CC2)O3)C)(C)C
+mol2,CC(=O)O[C@H]1C[C@H](OC(C)=O)[C@@]2(C)[C@@H]3Cc4oc(O)c(C)c4C4O[C@]43CC[C@@H]2C1(C)C
+mol3,COc1ccc2c(c1)oc(c2)C(c1ccc(cc1)F)(c1cccnc1)O
